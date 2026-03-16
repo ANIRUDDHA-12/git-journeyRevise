@@ -1,1 +1,2 @@
 Trying to Learn Git
+Typed Commit in here
