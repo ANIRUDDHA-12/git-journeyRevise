@@ -1,2 +1,3 @@
 Trying to Learn Git
 Typed Commit in here
+Trying more to learn in here properly
